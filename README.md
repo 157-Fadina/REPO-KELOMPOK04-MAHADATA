@@ -12,6 +12,6 @@
 ## Struktur Repositori
  
 ```
-Repo-Kelompok07-ProyekStudio02           
+REPO-KELOMPOK04-MAHADATA         
 ├──README.md 
 ```
